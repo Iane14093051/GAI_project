@@ -1,5 +1,3 @@
-# GAI_project
-
 ## Course Synopsis
 
 The following topics are covered: operating system structures, processes and threads, process scheduling, process synchronization, deadlocks, memory management, and file systems.
