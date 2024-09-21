@@ -17,3 +17,7 @@ The overview provided here is quite brief; please refer to the PDF files and the
 
 [Project3](https://github.com/Iane14093051/GAI_project1-3/tree/main/E14093051_GAI_Project3) :
 - The objective of this project is to explore Parameter-Efficient Fine-Tuning (PEFT) techniques using the GLUE benchmark datasets to enhance model performance on various natural language processing tasks.
+
+## **Note**
+- Please refer to the [PDF file1](https://github.com/Iane14093051/GAI_project4/blob/main/GenAI_assignment_visual_signal.pdf) [PDF file2](https://github.com/Iane14093051/GAI_project4/blob/main/GenAI_assignment_visual_signal.pdf) [PDF file3](https://github.com/Iane14093051/GAI_project4/blob/main/GenAI_assignment_visual_signal.pdf) for more detailed information about the experiment results.
+- Please refer to the [PDF file1](https://github.com/Iane14093051/GAI_project4/blob/main/GenAI_assignment_visual_signal.pdf) [PDF file2](https://github.com/Iane14093051/GAI_project4/blob/main/GenAI_assignment_visual_signal.pdf) [PDF file3](https://github.com/Iane14093051/GAI_project4/blob/main/GenAI_assignment_visual_signal.pdf) for more detailed information regarding the project requirements.
