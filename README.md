@@ -9,7 +9,7 @@ The following topics are covered: operating system structures, processes and thr
 
 The overview provided here is quite brief; please refer to the PDF files and the code within each directory for more detailed information.
 
-[Project1](https://github.com/Iane14093051/Computer_Organization/tree/main/Lab1) :
+[Project1](https://github.com/Iane14093051/GAI_project1-3/tree/main/E14093051_GAI_Project2a) :
 - The first assignment involves developing a basic shell that supports various commands, including multi-pipeline and background commands.
 
 [Project2](https://github.com/Iane14093051/Computer_Organization/tree/main/Lab2) :
