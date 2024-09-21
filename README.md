@@ -12,7 +12,7 @@ The overview provided here is quite brief; please refer to the PDF files and the
 [Project1](https://github.com/Iane14093051/GAI_project1-3/tree/main/E14093051_GAI_Project2a) :
 - The first assignment involves developing a basic shell that supports various commands, including multi-pipeline and background commands.
 
-[Project2](https://github.com/Iane14093051/Computer_Organization/tree/main/Lab2) :
+[Project2](https://github.com/Iane14093051/GAI_project1-3/tree/main/E14093051_GAI_Project2b) :
 - The second assignment focuses on using pthreads to perform matrix multiplication (4096x4096) and output the results to a proc file.
 
 [Project3](https://github.com/Iane14093051/Computer_Organization/tree/main/Lab2) :
