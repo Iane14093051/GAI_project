@@ -1,6 +1,6 @@
 ## Course Synopsis
 
-The following topics are covered: operating system structures, processes and threads, process scheduling, process synchronization, deadlocks, memory management, and file systems.
+This course provides an overview of the fundamental theories behind generative AI, covering various generative models for both text and images. It also includes practical exercises for applying these concepts in real-world scenarios.
 
 
 ## Description of labs
